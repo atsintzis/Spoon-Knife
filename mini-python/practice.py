@@ -19,5 +19,3 @@ for x in range(10):
         z.append(-1)
 print(z)
 
-# I just wanted to check that this works
-# What about this??
